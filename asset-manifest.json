@@ -1,7 +1,7 @@
 {
   "main.css": "/monstergame/static/css/main.2a592088.chunk.css",
-  "main.js": "/monstergame/static/js/main.8a6ae7dd.chunk.js",
-  "main.js.map": "/monstergame/static/js/main.8a6ae7dd.chunk.js.map",
+  "main.js": "/monstergame/static/js/main.c1b314d7.chunk.js",
+  "main.js.map": "/monstergame/static/js/main.c1b314d7.chunk.js.map",
   "static/js/1.7a13f676.chunk.js": "/monstergame/static/js/1.7a13f676.chunk.js",
   "static/js/1.7a13f676.chunk.js.map": "/monstergame/static/js/1.7a13f676.chunk.js.map",
   "runtime~main.js": "/monstergame/static/js/runtime~main.23c4b12a.js",
@@ -13,6 +13,6 @@
   "static/media/gameplay.png": "/monstergame/static/media/gameplay.890d86b9.png",
   "static/css/main.2a592088.chunk.css.map": "/monstergame/static/css/main.2a592088.chunk.css.map",
   "index.html": "/monstergame/index.html",
-  "precache-manifest.a6d6284951a38432e319b21cb610772a.js": "/monstergame/precache-manifest.a6d6284951a38432e319b21cb610772a.js",
+  "precache-manifest.77b99d48c488cf7acd5657250da3d36c.js": "/monstergame/precache-manifest.77b99d48c488cf7acd5657250da3d36c.js",
   "service-worker.js": "/monstergame/service-worker.js"
 }
