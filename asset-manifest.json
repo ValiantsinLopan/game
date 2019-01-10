@@ -1,9 +1,9 @@
 {
-  "main.css": "/monstergame/static/css/main.f82b58c5.chunk.css",
-  "main.js": "/monstergame/static/js/main.af5a71ef.chunk.js",
-  "main.js.map": "/monstergame/static/js/main.af5a71ef.chunk.js.map",
-  "static/js/1.8b73cbfd.chunk.js": "/monstergame/static/js/1.8b73cbfd.chunk.js",
-  "static/js/1.8b73cbfd.chunk.js.map": "/monstergame/static/js/1.8b73cbfd.chunk.js.map",
+  "main.css": "/monstergame/static/css/main.9064145e.chunk.css",
+  "main.js": "/monstergame/static/js/main.21540471.chunk.js",
+  "main.js.map": "/monstergame/static/js/main.21540471.chunk.js.map",
+  "static/js/1.df2d6d28.chunk.js": "/monstergame/static/js/1.df2d6d28.chunk.js",
+  "static/js/1.df2d6d28.chunk.js.map": "/monstergame/static/js/1.df2d6d28.chunk.js.map",
   "runtime~main.js": "/monstergame/static/js/runtime~main.23c4b12a.js",
   "runtime~main.js.map": "/monstergame/static/js/runtime~main.23c4b12a.js.map",
   "static/media/monsters.png": "/monstergame/static/media/monsters.9151f64d.png",
@@ -11,8 +11,8 @@
   "static/media/boo.png": "/monstergame/static/media/boo.fc115365.png",
   "static/media/monster.png": "/monstergame/static/media/monster.750e6a17.png",
   "static/media/gameplay.png": "/monstergame/static/media/gameplay.890d86b9.png",
-  "static/css/main.f82b58c5.chunk.css.map": "/monstergame/static/css/main.f82b58c5.chunk.css.map",
+  "static/css/main.9064145e.chunk.css.map": "/monstergame/static/css/main.9064145e.chunk.css.map",
   "index.html": "/monstergame/index.html",
-  "precache-manifest.53e2548ea3c8510a80c18ad2737ec687.js": "/monstergame/precache-manifest.53e2548ea3c8510a80c18ad2737ec687.js",
+  "precache-manifest.4e7f3f2d811dd14758a63b488a464b94.js": "/monstergame/precache-manifest.4e7f3f2d811dd14758a63b488a464b94.js",
   "service-worker.js": "/monstergame/service-worker.js"
 }
