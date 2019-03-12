@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/monstergame/static/js/runtime~main.23c4b12a.js"
   },
   {
-    "revision": "21540471bc6abed7e953",
-    "url": "/monstergame/static/js/main.21540471.chunk.js"
+    "revision": "0594e2c7fa888f869659",
+    "url": "/monstergame/static/js/main.0594e2c7.chunk.js"
   },
   {
-    "revision": "df2d6d28f15a6b17a3bd",
-    "url": "/monstergame/static/js/1.df2d6d28.chunk.js"
+    "revision": "8e040d688e898636d054",
+    "url": "/monstergame/static/js/1.8e040d68.chunk.js"
   },
   {
-    "revision": "21540471bc6abed7e953",
-    "url": "/monstergame/static/css/main.9064145e.chunk.css"
+    "revision": "0594e2c7fa888f869659",
+    "url": "/monstergame/static/css/main.21414cc3.chunk.css"
   },
   {
-    "revision": "b4be450c8cd2a35d72b411231c728c4d",
+    "revision": "32b76a33addd562bd1f25076da5f039b",
     "url": "/monstergame/index.html"
   }
 ];
